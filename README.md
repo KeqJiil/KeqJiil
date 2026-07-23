@@ -1,6 +1,6 @@
 # KeqJill
 
-# Hi, I'm Andrey 👋
+# Hi, I'm Andrew 👋
 
 Backend developer who went all-in on distributed systems — DDD, CQRS, event-driven architecture. Started in frontend, moved to full-stack, ended up in backend for good. Self-taught, currently looking for backend roles in the US.
 
@@ -21,6 +21,10 @@ I like systems that are honest about their trade-offs, and I try to build the sa
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 
 <br>
 
