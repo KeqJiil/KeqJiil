@@ -45,4 +45,4 @@ Right now I'm spending most of my time on system design and event-driven archite
 
 <br>
 
-📫 [LinkedIn](https://linkedin.com/in/your-profile)
+📫 [LinkedIn](https://www.linkedin.com/in/andrew-saviuk/)
