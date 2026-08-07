@@ -31,7 +31,7 @@ I like systems that are honest about their trade-offs, and I try to build the sa
 ### 🧱 Projects I'm building
 
 **[FoodDelivery](https://github.com/KeqJiil/FoodDelivery)** · .NET modular monolith
-Clean Architecture across four bounded contexts (Ordering is the rich DDD core, the rest are thin supporting contexts), CQRS via MediatR, and a MassTransit saga orchestrating the order flow.
+Clean Architecture across four bounded contexts (Ordering is the rich DDD core, the rest are supporting contexts), CQRS via MediatR, and a MassTransit saga orchestrating the order flow.
 
 **[Booking Platform](https://github.com/KeqJiil/booking)** · NestJS modular monolith
 DDD/CQRS with Stripe payments and an Outbox/Inbox setup for reliable messaging. Still a monolith — Kafka is the next step, not wired in yet.
