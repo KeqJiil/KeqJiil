@@ -1,5 +1,3 @@
-# KeqJill
-
 # Hi, I'm Andrew 👋
 
 Backend developer who went all-in on distributed systems — DDD, CQRS, event-driven architecture. Started in frontend, moved to full-stack, ended up in backend for good. Self-taught, currently looking for backend roles in the US.
@@ -30,8 +28,9 @@ I like systems that are honest about their trade-offs, and I try to build the sa
 
 ### 🧱 Projects I'm building
 
-**[FoodDelivery](https://github.com/KeqJiil/FoodDelivery)** · .NET modular monolith
-Clean Architecture across four bounded contexts (Ordering is the rich DDD core, the rest are supporting contexts), CQRS via MediatR, and a MassTransit saga orchestrating the order flow.
+**[FoodDelivery](https://github.com/KeqJiil/FoodDelivery)** · .NET modular monolith. Six bounded contexts (Ordering, Restaurants, OrderRequests, Payments, Deliveries, Saga); Ordering is the rich DDD core. CQRS via MediatR, MassTransit saga, transactional outbox, 616 tests, deployed to Azure with Bicep and GitHub Actions.
+
+**[TradingSystem](https://https://github.com/KeqJiil/TradingSystem)** TradingSystem · .NET microservices. Stock service complete: event sourcing for price, outbox, CQRS read model, Kafka retry and dead-letter handling. Order, Portfolio, Saga and Identity are planned.
 
 **[Booking Platform](https://github.com/KeqJiil/booking)** · NestJS modular monolith
 DDD/CQRS with Stripe payments and an Outbox/Inbox setup for reliable messaging. Still a monolith — Kafka is the next step, not wired in yet.
@@ -41,7 +40,7 @@ A Kafka consumer handling reliable, multi-channel notification delivery.
 
 <br>
 
-Right now I'm spending most of my time on system design and event-driven architecture — mostly just trying to get comfortable enough to talk through the trade-offs, not rush past them.
+Open to backend .NET roles: Atlanta (hybrid/on-site) or remote.
 
 <br>
 
