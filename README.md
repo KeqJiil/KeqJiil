@@ -30,7 +30,7 @@ I like systems that are honest about their trade-offs, and I try to build the sa
 
 **[FoodDelivery](https://github.com/KeqJiil/FoodDelivery)** · .NET modular monolith. Six bounded contexts (Ordering, Restaurants, OrderRequests, Payments, Deliveries, Saga); Ordering is the rich DDD core. CQRS via MediatR, MassTransit saga, transactional outbox, 616 tests, deployed to Azure with Bicep and GitHub Actions.
 
-**[TradingSystem](https://https://github.com/KeqJiil/TradingSystem)** TradingSystem · .NET microservices. Stock service complete: event sourcing for price, outbox, CQRS read model, Kafka retry and dead-letter handling. Order, Portfolio, Saga and Identity are planned.
+**[TradingSystem](https://github.com/KeqJiil/TradingSystem)** TradingSystem · .NET microservices. Stock service complete: event sourcing for price, outbox, CQRS read model, Kafka retry and dead-letter handling. Order, Portfolio, Saga and Identity are planned.
 
 **[Booking Platform](https://github.com/KeqJiil/booking)** · NestJS modular monolith
 DDD/CQRS with Stripe payments and an Outbox/Inbox setup for reliable messaging. Still a monolith — Kafka is the next step, not wired in yet.
